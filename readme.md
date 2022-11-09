@@ -22,7 +22,7 @@
   
 <h2 id="grupo">Grupo 🥇</h2>
   - [Kayllane](https://github.com/kayllanefs)<br>
-  <img src"">
+  <img src"https://raw.githubusercontent.com/matheusel/FrontEnders/261189a92bac4257ed46ef922682b5e56b74a8d8/src/contato/kayllane.jpeg">
   - [Matheus](https://github.com/matheusel)<br>
   - [Nathalia](https://github.com/Nathamorim22)<br>
   - [Arley](https://github.com/Sillabub3)
